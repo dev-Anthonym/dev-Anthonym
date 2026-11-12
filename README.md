@@ -36,5 +36,5 @@ Estou construindo minha base em **desenvolvimento back-end com Java** e document
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanthony/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@dev.anthonym)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev.anthonym)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.anthonym/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dev-anthonym.github.io/Portfolio)
