@@ -1,6 +1,6 @@
 # Olá, eu sou o Anthony 👋
 
-Estudante de Ciência da Computação na UNA Contagem, focado em desenvolvimento back-end com Java.
+Estudante de **Ciência da Computação** na UNA Contagem, focado em **desenvolvimento back-end com Java**.
 
 Por aqui ficam meus projetos e estudos na prática. O dia a dia dessa jornada, com os acertos, os erros e o que vou aprendendo, eu compartilho no **Instagram [@dev.anthonym](https://www.instagram.com/dev.anthonym/)**. Conteúdos mais longos ficam no YouTube, e minha trajetória profissional no LinkedIn.
 
